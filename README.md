@@ -1,7 +1,6 @@
 # ABM-Compiler-Python
 
-What is ABM language?
-Abstract Machine Language.
+## What is ABM language? Abstract Machine Language.
 
 The grammar of ABM programming language:
  
